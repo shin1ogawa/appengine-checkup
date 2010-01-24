@@ -4,11 +4,11 @@
   <version>2010-01-24a</version>
   
   <static-files>
-    <include path="google9c54f7f7a483747d.html" />
+    <include path="google9c54f7f7a483747d.html"/>
   </static-files>
   
-  <!-- とりあえずオフにしておく実験 -->
   <sessions-enabled>false</sessions-enabled>
+  <precompilation-enabled>true</precompilation-enabled>
   
   <inbound-services>
     <service>mail</service>
