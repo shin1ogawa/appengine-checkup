@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cronentries>
+  <!-- 日本語のコメントテスト -->
+  <cron>
+    <url>/</url>
+    <description>avoid spin down</description>
+    <schedule>every 10 minutes</schedule>
+  </cron>
+</cronentries>
